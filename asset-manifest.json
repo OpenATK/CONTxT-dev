@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://openatk.com/CONTxT-dev/static/css/main.010d088f.css",
+    "main.js": "https://openatk.com/CONTxT-dev/static/js/main.a8be6bb7.js",
+    "index.html": "https://openatk.com/CONTxT-dev/index.html",
+    "main.010d088f.css.map": "https://openatk.com/CONTxT-dev/static/css/main.010d088f.css.map",
+    "main.a8be6bb7.js.map": "https://openatk.com/CONTxT-dev/static/js/main.a8be6bb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010d088f.css",
+    "static/js/main.a8be6bb7.js"
+  ]
+}
