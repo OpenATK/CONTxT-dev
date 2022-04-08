@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CONTxT-dev/static/css/main.ab70d110.css",
-    "main.js": "/CONTxT-dev/static/js/main.6bca6f52.js",
+    "main.css": "/CONTxT-dev/static/css/main.7ebff879.css",
+    "main.js": "/CONTxT-dev/static/js/main.03855a5f.js",
     "index.html": "/CONTxT-dev/index.html",
-    "main.ab70d110.css.map": "/CONTxT-dev/static/css/main.ab70d110.css.map",
-    "main.6bca6f52.js.map": "/CONTxT-dev/static/js/main.6bca6f52.js.map"
+    "main.7ebff879.css.map": "/CONTxT-dev/static/css/main.7ebff879.css.map",
+    "main.03855a5f.js.map": "/CONTxT-dev/static/js/main.03855a5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab70d110.css",
-    "static/js/main.6bca6f52.js"
+    "static/css/main.7ebff879.css",
+    "static/js/main.03855a5f.js"
   ]
 }
