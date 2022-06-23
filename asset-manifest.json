@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://openatk.com/CONTxT-dev/static/css/main.7ebff879.css",
-    "main.js": "https://openatk.com/CONTxT-dev/static/js/main.e72e8849.js",
-    "index.html": "https://openatk.com/CONTxT-dev/index.html",
-    "main.7ebff879.css.map": "https://openatk.com/CONTxT-dev/static/css/main.7ebff879.css.map",
-    "main.e72e8849.js.map": "https://openatk.com/CONTxT-dev/static/js/main.e72e8849.js.map"
+    "main.css": "/CONTxT-dev/static/css/main.7ebff879.css",
+    "main.js": "/CONTxT-dev/static/js/main.3150069a.js",
+    "index.html": "/CONTxT-dev/index.html",
+    "main.7ebff879.css.map": "/CONTxT-dev/static/css/main.7ebff879.css.map",
+    "main.3150069a.js.map": "/CONTxT-dev/static/js/main.3150069a.js.map"
   },
   "entrypoints": [
     "static/css/main.7ebff879.css",
-    "static/js/main.e72e8849.js"
+    "static/js/main.3150069a.js"
   ]
 }
